@@ -48,8 +48,8 @@
         width: 1280px;
     }
 
-    #coluna {
-        float: right;
+    .coluna {
+        float: left;
         margin: 30px;
         width: 300px;
     }
